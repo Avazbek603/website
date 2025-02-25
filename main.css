@@ -1,0 +1,13 @@
+.box {
+    border: 2px solid red;
+    display:inline-block;
+    gap: 150px;
+    width: 200px;
+    height: 200px;
+    background-color: yellowgreen;
+
+}
+
+.box:hover {
+    a
+}
